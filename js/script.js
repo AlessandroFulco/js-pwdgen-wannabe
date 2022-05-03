@@ -11,5 +11,7 @@ const surname = prompt('Inserisci Cognome:');
 // debug
 console.log(surname);
 
-
-
+// favourite color
+const favColor = prompt('Inserisci il tuo colore preferito:');
+// debug
+console.log(favColor);
