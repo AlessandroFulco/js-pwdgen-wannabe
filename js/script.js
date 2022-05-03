@@ -15,3 +15,7 @@ console.log(surname);
 const favColor = prompt('Inserisci il tuo colore preferito:');
 // debug
 console.log(favColor);
+
+const password = name + surname + favColor + "21";
+// debug
+console.log(password);
