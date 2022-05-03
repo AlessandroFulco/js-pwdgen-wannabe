@@ -19,3 +19,5 @@ console.log(favColor);
 const password = name + surname + favColor + "21";
 // debug
 console.log(password);
+
+document.getElementById('password_generator').innerHTML = password;
